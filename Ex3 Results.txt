@@ -1,0 +1,19 @@
+Cat-walking
+Cat talks: 'meow! meow!'
+Cat is eating mice
+
+Dog-walking
+Dog talks: 'woof! woof!'
+Dog is eating bones
+
+Mouse-walking
+Mouse talking: 'squeak! squeak!'
+Mouse is eating cheese
+
+Chicken-walking
+Chicken talks: 'cluck! cluck!'
+Chicken is eating corn
+
+Duck-walking'
+Duck talks: 'quack! quack!'
+Duck is eating wheat
